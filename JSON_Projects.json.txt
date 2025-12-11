@@ -1,0 +1,188 @@
+
+{
+  "projects": [
+    {
+      "projectID": 6,
+      "name": "High Frequency Rail Corridor",
+      "projectType": "Rail",
+      "startDate": "2025-01-01",
+      "deadline": "2032-12-31",
+      "budget": 12000000000,
+      "status": "Planned",
+      "provinceID": "ON",
+      "contractors": {
+        "companyName": "VIA Rail Canada",
+        "contact": "projects@viarail.ca",
+        "HQ_city": "Montreal",
+        "subcontractors": [
+          {
+            "subcontractorName": "National Rail Consultants",
+            "HQ_city": "Ottawa",
+            "task": "Rail Design",
+            "contact": "design@railconsultants.ca"
+          }
+        ]
+      },
+      "agencies": [
+        {
+          "agencyName": "Infrastructure Canada",
+          "HQ_city": "Ottawa",
+          "contact": "info@infrastructure.gc.ca"
+        }
+      ]
+    },
+    {
+      "projectID": 7,
+      "name": "Quebec City Tramway",
+      "projectType": "Transportation",
+      "startDate": "2024-09-01",
+      "deadline": "2029-12-31",
+      "budget": 3300000000,
+      "status": "Planned",
+      "provinceID": "QC",
+      "contractors":{
+          "companyName": "Quebec Transport Consortium",
+          "contact": "info@quebecconsortium.qc.ca",
+          "HQ_city": "Quebec City",
+          "subcontractors": [
+            {
+              "subcontractorID": 32,
+              "subcontractorName": "Quebec Electric Transit",
+              "HQ_city": "Quebec City",
+              "task": "Electric Systems",
+              "contact": "electric@transit.qc.ca"
+            }
+          ]
+        },
+      "agencies": [
+        {
+          "agencyID": 4,
+          "agencyName": "Transport Quebec",
+          "HQ_city": "Quebec City",
+          "contact": "info@transportquebec.qc.ca"
+        }
+      ]
+    },
+    {
+      "projectID": 8,
+      "name": "Surrey-Langley SkyTrain Extension",
+      "projectType": "Transportation",
+      "startDate": "2024-01-01",
+      "deadline": "2028-12-31",
+      "budget": 3900000000,
+      "status": "Planned",
+      "provinceID": "BC",
+      "contractors":{
+          "contractorID": 19,
+          "companyName": "BC Rapid Transit Company",
+          "contact": "projects@bcrapidtransit.com",
+          "HQ_city": "Vancouver",
+          "subcontractors": [
+            {
+              "subcontractorID": 33,
+              "subcontractorName": "West Coast Engineering",
+              "HQ_city": "Surrey",
+              "task": "Structural Engineering",
+              "contact": "engineering@westcoast.ca"
+            },
+            {
+              "subcontractorID": 34,
+              "subcontractorName": "Fraser Valley Construction",
+              "HQ_city": "Langley",
+              "task": "Station Construction",
+              "contact": "construction@fraservalley.ca"
+            }
+          ]
+        },
+      "agencies": [
+        {
+          "agencyID": 3,
+          "agencyName": "BC Infrastructure",
+          "HQ_city": "Victoria",
+          "contact": "contact@bcinfrastructure.ca"
+        }
+      ]
+    },
+    {
+      "projectID": 9,
+      "name": "Ontario Highway 413",
+      "projectType": "Highway",
+      "startDate": "2024-07-01",
+      "deadline": "2028-12-31",
+      "budget": 6000000000,
+      "status": "Planned",
+      "provinceID": "ON",
+      "contractors": 
+        {
+          "contractorID": 20,
+          "companyName": "Aecon Group",
+          "contact": "highways@aecon.com",
+          "HQ_city": "Toronto",
+          "subcontractors": [
+            {
+              "subcontractorID": 35,
+              "subcontractorName": "Ontario Paving Co",
+              "HQ_city": "Toronto",
+              "task": "Road Paving",
+              "contact": "paving@ontario.ca"
+            },
+            {
+              "subcontractorID": 36,
+              "subcontractorName": "GTA Bridge Builders",
+              "HQ_city": "Vaughan",
+              "task": "Bridge Construction",
+              "contact": "bridges@gta.ca"
+            }
+          ]
+        },
+      "agencies": [
+        {
+          "agencyID": 2,
+          "agencyName": "Infrastructure Ontario",
+          "HQ_city": "Toronto",
+          "contact": "projects@infrastructureontario.ca"
+        }
+      ]
+    },
+    {
+      "projectID": 10,
+      "name": "Calgary Airport Tunnel",
+      "projectType": "Transportation",
+      "startDate": "2025-03-01",
+      "deadline": "2027-11-30",
+      "budget": 280000000.00,
+      "status": "Planned",
+      "provinceID": "AB",
+      "contractors":{
+          "contractorID": 15,
+          "companyName": "PCL Construction",
+          "contact": "info@pcl.com",
+          "HQ_city": "Edmonton",
+          "subcontractors": [
+            {
+              "subcontractorID": 37,
+              "subcontractorName": "Alberta Tunneling Experts",
+              "HQ_city": "Calgary",
+              "task": "Tunnel Boring",
+              "contact": "tunnels@alberta.ca"
+            },
+            {
+              "subcontractorID": 38,
+              "subcontractorName": "Rocky Mountain Safety",
+              "HQ_city": "Calgary",
+              "task": "Safety Systems",
+              "contact": "safety@rockymountain.ca"
+            }
+          ]
+        },
+      "agencies": [
+        {
+          "agencyID": 5,
+          "agencyName": "Alberta Transportation",
+          "HQ_city": "Edmonton",
+          "contact": "info@transportation.alberta.ca"
+        }
+      ]
+    }
+  ]
+}

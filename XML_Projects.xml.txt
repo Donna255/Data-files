@@ -1,0 +1,209 @@
+<projects>
+  <project>
+    <projectID>1</projectID>
+    <name>Eglinton Crosstown West Extension</name>
+    <projecttype>Transportation</projecttype>
+    <startdate>2021-08-01</startdate>
+    <deadline>2025-12-31</deadline>
+    <budget>4700000000.00</budget>
+    <status>In-Progress</status>
+    <provinceID>ON</provinceID>
+    <contractors>
+      <contractor>
+        <contractorID>11</contractorID>
+        <companyName>Metrolinx</companyName>
+        <contact>projects@metrolinx.com</contact>
+        <HQ_city>Toronto</HQ_city>
+        <subcontractors>
+          <subcontractor>
+            <subcontractorID>21</subcontractorID>
+            <subcontractorName>Toronto Tunneling Experts</subcontractorName>
+            <HQ_city>Toronto</HQ_city>
+            <task>Tunnel Boring</task>
+            <contact>tunnel@experts.ca</contact>
+          </subcontractor>
+          <subcontractor>
+            <subcontractorID>22</subcontractorID>
+            <subcontractorName>GTA Electrical Systems</subcontractorName>
+            <HQ_city>Mississauga</HQ_city>
+            <task>Electrical Work</task>
+            <contact>electrical@gta.ca</contact>
+          </subcontractor>
+        </subcontractors>
+      </contractor>
+    </contractors>
+    <agencies>
+      <agency>
+        <agencyID>2</agencyID>
+        <agencyName>Infrastructure Ontario</agencyName>
+        <HQ_city>Toronto</HQ_city>
+        <contact>projects@infrastructureontario.ca</contact>
+      </agency>
+    </agencies>
+  </project>
+
+  <project>
+    <projectID>2</projectID>
+    <name>Samuel De Champlain Bridge Corridor</name>
+    <projecttype>Bridge</projecttype>
+    <startdate>2020-01-01</startdate>
+    <deadline>2024-06-30</deadline>
+    <budget>4400000000.00</budget>
+    <status>In-Progress</status>
+    <provinceID>QC</provinceID>
+    <contractors>
+      <contractor>
+        <contractorID>13</contractorID>
+        <companyName>Signature on the Saint Lawrence</companyName>
+        <contact>contact@signaturebridge.com</contact>
+        <HQ_city>Montreal</HQ_city>
+        <subcontractors>
+          <subcontractor>
+            <subcontractorID>24</subcontractorID>
+            <subcontractorName>Quebec Steel Works</subcontractorName>
+            <HQ_city>Montreal</HQ_city>
+            <task>Steel Fabrication</task>
+            <contact>steel@quebec.ca</contact>
+          </subcontractor>
+        </subcontractors>
+      </contractor>
+    </contractors>
+    <agencies>
+      <agency>
+        <agencyID>1</agencyID>
+        <agencyName>Infrastructure Canada</agencyName>
+        <HQ_city>Ottawa</HQ_city>
+        <contact>info@infrastructure.gc.ca</contact>
+      </agency>
+    </agencies>
+  </project>
+
+  <project>
+    <projectID>3</projectID>
+    <name>Site C Clean Energy Project</name>
+    <projecttype>Energy</projecttype>
+    <startdate>2015-07-01</startdate>
+    <deadline>2025-12-31</deadline>
+    <budget>16000000000.00</budget>
+    <status>In-Progress</status>
+    <provinceID>BC</provinceID>
+    <contractors>
+      <contractor>
+        <contractorID>14</contractorID>
+        <companyName>BC Hydro</companyName>
+        <contact>projects@bchydro.com</contact>
+        <HQ_city>Vancouver</HQ_city>
+        <subcontractors>
+          <subcontractor>
+            <subcontractorID>25</subcontractorID>
+            <subcontractorName>Pacific Turbine Services</subcontractorName>
+            <HQ_city>Vancouver</HQ_city>
+            <task>Turbine Installation</task>
+            <contact>turbines@pacific.ca</contact>
+          </subcontractor>
+          <subcontractor>
+            <subcontractorID>26</subcontractorID>
+            <subcontractorName>Coastal Concrete</subcontractorName>
+            <HQ_city>Victoria</HQ_city>
+            <task>Dam Construction</task>
+            <contact>concrete@coastal.ca</contact>
+          </subcontractor>
+        </subcontractors>
+      </contractor>
+    </contractors>
+    <agencies>
+      <agency>
+        <agencyID>3</agencyID>
+        <agencyName>BC Infrastructure</agencyName>
+        <HQ_city>Victoria</HQ_city>
+        <contact>contact@bcinfrastructure.ca</contact>
+      </agency>
+    </agencies>
+  </project>
+
+  <project>
+    <projectID>4</projectID>
+    <name>Calgary Cancer Centre</name>
+    <projecttype>Healthcare</projecttype>
+    <startdate>2017-03-01</startdate>
+    <deadline>2024-03-31</deadline>
+    <budget>1400000000.00</budget>
+    <status>In-Progress</status>
+    <provinceID>AB</provinceID>
+    <contractors>
+      <contractor>
+        <contractorID>15</contractorID>
+        <companyName>PCL Construction</companyName>
+        <contact>info@pcl.com</contact>
+        <HQ_city>Edmonton</HQ_city>
+        <subcontractors>
+          <subcontractor>
+            <subcontractorID>27</subcontractorID>
+            <subcontractorName>Alberta Medical Systems</subcontractorName>
+            <HQ_city>Calgary</HQ_city>
+            <task>Medical Equipment</task>
+            <contact>medical@alberta.ca</contact>
+          </subcontractor>
+          <subcontractor>
+            <subcontractorID>28</subcontractorID>
+            <subcontractorName>Prairie Electrical</subcontractorName>
+            <HQ_city>Edmonton</HQ_city>
+            <task>Hospital Electrical</task>
+            <contact>electrical@prairie.ca</contact>
+          </subcontractor>
+        </subcontractors>
+      </contractor>
+    </contractors>
+    <agencies>
+      <agency>
+        <agencyID>5</agencyID>
+        <agencyName>Alberta Transportation</agencyName>
+        <HQ_city>Edmonton</HQ_city>
+        <contact>info@transportation.alberta.ca</contact>
+      </agency>
+    </agencies>
+  </project>
+
+  <project>
+    <projectID>5</projectID>
+    <name>Hurontario Light Rail Transit</name>
+    <projecttype>Transportation</projecttype>
+    <startdate>2020-09-01</startdate>
+    <deadline>2024-09-30</deadline>
+    <budget>4800000000.00</budget>
+    <status>In-Progress</status>
+    <provinceID>ON</provinceID>
+    <contractors>
+      <contractor>
+        <contractorID>16</contractorID>
+        <companyName>Mobilinx</companyName>
+        <contact>projects@mobilinx.com</contact>
+        <HQ_city>Mississauga</HQ_city>
+        <subcontractors>
+          <subcontractor>
+            <subcontractorID>29</subcontractorID>
+            <subcontractorName>GTA Track Systems</subcontractorName>
+            <HQ_city>Brampton</HQ_city>
+            <task>Rail Installation</task>
+            <contact>track@gta.ca</contact>
+          </subcontractor>
+          <subcontractor>
+            <subcontractorID>30</subcontractorID>
+            <subcontractorName>Ontario Signal Corp</subcontractorName>
+            <HQ_city>Oakville</HQ_city>
+            <task>Signal Systems</task>
+            <contact>signals@ontario.ca</contact>
+          </subcontractor>
+        </subcontractors>
+      </contractor>
+    </contractors>
+    <agencies>
+      <agency>
+        <agencyID>2</agencyID>
+        <agencyName>Infrastructure Ontario</agencyName>
+        <HQ_city>Toronto</HQ_city>
+        <contact>projects@infrastructureontario.ca</contact>
+      </agency>
+    </agencies>
+  </project>
+</projects>
